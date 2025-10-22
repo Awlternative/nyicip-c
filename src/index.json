@@ -22,5 +22,9 @@
     "src/sesi9/hal-8.c",
     "src/sesi9/hal-21.c",
     "src/sesi9/hal-28.c",
-    "src/sesi9/hal-35.c"
+    "src/sesi9/hal-35.c",
+    "src/sesi10_perulangan/for.c",
+    "src/sesi10_perulangan/while.c",
+    "src/sesi10_perulangan/do-while.c",
+    "src/sesi10_perulangan/perulangan.c"
 ]
