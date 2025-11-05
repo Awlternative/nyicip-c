@@ -120,7 +120,7 @@
 
         // === BAGIAN PENTING ===
         // Ambil daftar file dari index.json
-        fetch('src/index.json')
+        fetch(`src/index.json?cache=${Date.now()}`)
             .then(res => res.json())
             .then(files => createNavigation(files))
             .catch(err => {
@@ -241,9 +241,9 @@
             background: #2f2f2f;
             transform: scale(1.02);
         }
-        
-        @media screen and (max-width:767px){
-            #container{
+
+        @media screen and (max-width:767px) {
+            #container {
                 display: flex;
                 flex-direction: row;
             }

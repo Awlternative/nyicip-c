@@ -1,6 +1,6 @@
 [
-    "src//main.c",
-    "src//sesi4.c",
+    "src/sesi3/main.c",
+    "src/sesi4/sesi4.c",
     "src/fungsi-dan-tipe-variabel-dasar/intro1.c",
     "src/fungsi-dan-tipe-variabel-dasar/intro2.c",
     "src/fungsi-dan-tipe-variabel-dasar/intro3.c",
@@ -26,5 +26,7 @@
     "src/sesi10_perulangan/for.c",
     "src/sesi10_perulangan/while.c",
     "src/sesi10_perulangan/do-while.c",
-    "src/sesi10_perulangan/perulangan.c"
+    "src/sesi10_perulangan/perulangan.c",
+    "src/sesi12_uts/soal1.c",
+    "src/sesi12_uts/soal2.c"
 ]

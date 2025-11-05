@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Ngomding/nyicip-c/src/uts",
-      "program": "c:/Ngomding/nyicip-c/src/uts/build/Debug/outDebug",
+      "cwd": "c:/Ngomding/nyicip-c/src/sesi12_uts",
+      "program": "c:/Ngomding/nyicip-c/src/sesi12_uts/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
