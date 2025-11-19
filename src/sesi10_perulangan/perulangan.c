@@ -3,7 +3,7 @@ main()
 {
     //for
     int bil;
-    for(bil = 1; bil <= 15; bil+=3)
+    for(bil = 1; bil <= 15; bil+=3) 
         printf("%d\n", bil);
     printf("\n");
 
@@ -23,4 +23,18 @@ main()
         printf("%d\n", bil);
         bil = bil + 3;
     }while(bil <= 15);
+
+
+    ///
+    int bil2, bil3;
+    bil = 3;
+    for(; ;)
+    {
+        printf("%d-",bil);
+        if(bil >= 10)
+        {
+            break;
+        }
+        bil++;
+    }
 }
